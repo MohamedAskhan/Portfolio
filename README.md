@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://mohamedaskhan.github.io/portfolio/">**Visit Now** 🚀</a>
+<a href="https://mohamedaskhan.github.io/Portfolio/">**Visit Now** 🚀</a>
 
 
 
